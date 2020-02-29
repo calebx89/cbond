@@ -1,6 +1,4 @@
 
-# @Time : 2020/1/20 10:54
-# @File : realtime_price.py
 import pypinyin
 import requests
 session = requests.Session()
